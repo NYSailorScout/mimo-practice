@@ -1,12 +1,15 @@
 h1 {
   color: maroon;
-  font-family: Helvetica;
 }
 
 body {
-    background-color: aqua;
+  background-color: aqua;
 }
     
 p {
   color: blue;
+}
+
+header {
+  font-family: Helvetica;
 }
