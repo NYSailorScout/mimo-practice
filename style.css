@@ -13,3 +13,8 @@ p {
 title {
   font-family: Helvetica;
 }
+
+.list-item {
+  background-color: maroon;
+  color: aqua;
+}
