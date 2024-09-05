@@ -7,7 +7,17 @@ body {
 }
     
 p {
-  color: blue;
+ color: blue;
+ font-size: 60px;
+ font-family: Courier New;
+ font-style: italic;
+ 
+font-weight
+:
+ 
+bold
+;
+
 }
 
 title {
