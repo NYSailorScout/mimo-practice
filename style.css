@@ -1,6 +1,7 @@
 img {
   border-radius: 50px;
   animation: bounce 2s infinite;
+  margin-top: 20px;
 }
 
 h2 {
