@@ -32,7 +32,7 @@ a {
 a:hover {
   color: black;
   background-color: plum;
-  transform: scale(1.05);
+  transform: scale(1.10);
 }
 
 @keyframes bounce {
