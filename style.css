@@ -7,7 +7,7 @@ h2 {
 }
 
 body {
-  background: linear-gradient(to right, coral, peachpuff);
+  background: linear-gradient(coral, peachpuff);
   font-family: Trebuchet MS;
   color: FireBrick;
   text-align: center;
@@ -22,4 +22,9 @@ a {
   text-align: center;
   margin: 10px;
   color: coral;
+}
+
+a:hover {
+  color: firebrick;
+  background-color: blueviolet;
 }
