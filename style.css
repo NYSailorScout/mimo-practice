@@ -31,4 +31,4 @@ a:hover {
   background-color: plum;
 }
 
-@keyframes bounce {}
+@keyframes bounce { 40% {} 60% {} }
