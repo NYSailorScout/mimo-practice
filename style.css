@@ -30,3 +30,5 @@ a:hover {
   color: black;
   background-color: plum;
 }
+
+@keyframes bounce {}
