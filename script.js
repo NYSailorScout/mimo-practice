@@ -1,6 +1,5 @@
-let inputValue = 10;
-let milesToKm = false;
-
+const inputValue = 10;
+const milesToKm = false;
 let result = 0;
 
 if (milesToKm) {
@@ -12,5 +11,5 @@ if (milesToKm) {
 const resultString = inputValue + " miles are " + result + " km";
 console.log(resultString);
 
-const resultElement = document.getElementById("resultElement");
+const resultElement = document.getElementById('resultElement');
 resultElement.innerHTML = resultString;
