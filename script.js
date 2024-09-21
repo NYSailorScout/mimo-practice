@@ -24,13 +24,13 @@ function checkGuess() {
   let guess = inputElement.value;
 
   if (guess === randomNumber) {
-     feedbackElement.style.color("green");
+     feedbackElement.style.color = "green";
      feedbackElement.innerHTML = "You guessed it!";
   } else if (guess < randomNumber) {
-     feedbackElement.style.color("red");
+     feedbackElement.style.color = "red";
      feedbackElement.innerHTML = "Too low!";
   } else {
-     feedbackElement.style.color("red");
+     feedbackElement.style.color = "red";
      feedbackElement.innerHTML = "Too high!";
   }
   
