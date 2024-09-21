@@ -13,3 +13,7 @@ console.log(resultString);
 
 const resultElement = document.getElementById('resultElement');
 resultElement.innerHTML = resultString;
+
+function checkGuess() {
+  console.log("Good guess!");
+}
